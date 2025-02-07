@@ -1,6 +1,6 @@
-# Sharp determination of small cases for the Erd{\H{o}}s, Pach, Pollack and Tuza problem}
+# Sharp determination of small cases for the Erdős, Pach, Pollack and Tuza problem
 
-This repository contains code related to the paper "Sharp determination of small cases for the Erd{\H{o}}s, Pach, Pollack and Tuza problem}". This code implements the algorithm discussed in the appendix to determine $c(\delta)$ (for $\delta=6$) and $c'(\delta)$ (for $\delta \in \{7,8,16\}$). Please note that the total time for the paper amounts to 1 CPU-year, so running these programs on a Desktop computer for a few hours will only show a tiny fraction of its output. Below we give some illustrative examples.
+This repository contains code related to the paper "Sharp determination of small cases for the Erdős, Pach, Pollack and Tuza problem}". This code implements the algorithm discussed in the appendix to determine $c(\delta)$ (for $\delta=6$) and $c'(\delta)$ (for $\delta \in \{7,8,16\}$). Please note that the total time for the paper amounts to 1 CPU-year, so running these programs on a Desktop computer for a few hours will only show a tiny fraction of its output. Below we give some illustrative examples.
 
 The code "omega3Delta6.cpp" can be used to compute $c(6)$, whereas the other programs can be used to compute $c'(7),c'(8)$ and $c'(16)$ (the latter additionally makes the assumptions mentioned the paper.
 
